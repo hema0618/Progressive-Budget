@@ -32,5 +32,5 @@ Repository https://github.com/hema0618/Progressive-Budget
 
 ## Deployed Link
 
- Heroku-Link https://budget-tracker0618.herokuapp.com/
+ Heroku-Link  https://budgettracker0618.herokuapp.com/
 
