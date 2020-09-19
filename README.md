@@ -1,4 +1,4 @@
-# Progressive-Budget
+# Save-a-Toonie
 
 Budget Tracker is an open-source progressive web app that allows you to track your income and expenses.
 
