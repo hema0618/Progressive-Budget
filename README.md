@@ -26,9 +26,9 @@ You need PC, laptop or smartphone with Mozilla,Edge or Safari browser to visit t
 ## Contact
 Hema - khemalatha507@gmail.com
 
-[Budget-Tracker]  https://hema0618.github.io/Progressive-Budget/.
+[Save-a-Toonie]   https://hema0618.github.io/Save-a-Toonie/
 
-Repository https://github.com/hema0618/Progressive-Budget
+Repository  https://github.com/hema0618/Save-a-Toonie
 
 ## Deployed Link
 
